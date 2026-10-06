@@ -1,7 +1,7 @@
 # Extensão Hangul para Edge
 
 Esta extensão converte texto em português para blocos Hangul (CV e CVC).
-Criado pra aacotumar a identificar a letra mais rapidamente facilitando a leitura em coreano.
+Criado pra acostumar a identificar a letra mais rapidamente facilitando a leitura em coreano.
 
 ## Instalação manual no Edge
 
